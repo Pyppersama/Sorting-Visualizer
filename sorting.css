@@ -1,0 +1,34 @@
+body{
+    background-color: #343a40;
+    position: relative;
+    height: 100vh;
+}
+header{
+    color: #fff;
+    text-align: center;
+}
+/* .navbar{
+    background-color: #343a40;
+} */
+#array-btn{
+    border: 1px solid #1a8d64;
+    color: #1a8d64;
+}
+.navbar-nav .btn{
+    border: 1px solid #238ee4;
+    color: #238ee4;
+    margin-left: 10px;
+}
+footer{
+    color: #fff;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin: 0 auto;
+    border-top: 1px solid #fff;
+    padding-top: 15px;
+}
+footer p{
+    text-align: center;
+}
